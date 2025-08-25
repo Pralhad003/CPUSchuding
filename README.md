@@ -46,7 +46,7 @@ Different CPU scheduling algorithms have unique properties, and choosing the rig
 
 1. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/ammarlodhi255/cpu-scheduling-simulator.git
+   git clone https://github.com/Pralhad003/CPUSchuding.git
    ```
    
 2. Navigate to the project directory:
@@ -65,23 +65,3 @@ Different CPU scheduling algorithms have unique properties, and choosing the rig
 3. **View Results**:
    - The simulator will display the sequence of process execution and calculate important metrics like waiting time, turnaround time, and CPU utilization.
 
-### Example
-
-- **Simulating Round Robin Scheduling**:
-  1. Open the simulator.
-  2. Select "Round Robin" from the list of algorithms.
-  3. Input the number of process.
-  4. Click "Start" to see the order of execution and performance metrics.
-
-## Contributing
-
-If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-1. Fork the repository.
-2. Create a new feature branch.
-3. Commit your changes.
-4. Push to the branch.
-5. Submit a pull request.
-
-## YouTube Video
-Video link of project demonstration: https://www.youtube.com/watch?v=Rf6Ec8PjOyg
